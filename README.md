@@ -73,7 +73,8 @@ https://linkedin.com/in/shreyanshraj
 https://shreyanshraj.com
 
 📧 Email  
-mailto:shreyanshraj@gmail.com
+shreyanshraj@gmail.com
+
 ---
 
 ⭐ Always excited to collaborate on **cloud, AI, and distributed systems projects**.
