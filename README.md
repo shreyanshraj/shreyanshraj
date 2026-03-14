@@ -1,70 +1,77 @@
-👋 Hi, I'm Shreyansh Raj
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AWS+Cloud+Developer;Distributed+Systems+Builder;AI+%26+Cloud+Enthusiast;Cloud+Native+Architect&center=true&width=650&height=45"> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=shreyanshraj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
+# 👋 Hi, I'm Shreyansh Raj
 
-##🚀 About Me
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AWS+Cloud+Developer;Distributed+Systems+Builder;AI+%26+Cloud+Enthusiast;Cloud+Native+Architect&center=true&width=650&height=45">
+</p>
 
-💻 Software Engineer focused on Cloud Infrastructure, AI-powered systems, and distributed architectures
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shreyanshraj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-🎓 M.S. Computer Science — Arizona State University
+---
 
-☁️ AWS Developer experienced in serverless, microservices, and event-driven systems
+## 🚀 About Me
 
-🧠 Passionate about building AI-driven automation and scalable backend platforms
+💻 Software Engineer focused on **Cloud Infrastructure, AI-powered systems, and distributed architectures**
+
+🎓 **M.S. Computer Science — Arizona State University**
+
+☁️ AWS Developer experienced in **serverless, microservices, and event-driven systems**
+
+🧠 Passionate about building **AI-driven automation and scalable backend platforms**
 
 🔧 Currently building systems involving:
 
-AWS serverless pipelines
+- AWS serverless pipelines  
+- AI-powered collaboration tools  
+- Computer vision applications  
+- Cloud automation platforms  
 
-AI-powered collaboration tools
-
-Computer vision applications
-
-Cloud automation platforms
+---
 
 ## 🛠 Tech Stack
 
 ### ☁️ Cloud
-
-AWS • Lambda • DynamoDB • S3 • SQS • CloudFormation • IAM •RDS • Monitoring • Docker • AppConfig
+AWS • Lambda • DynamoDB • S3 • SQS • CloudFormation • IAM • RDS • AppConfig • Monitoring
 
 ### 💻 Languages
-
-Python • JavaScript • TypeScript • SQL • SAP ABAP • Java •
+Python • JavaScript • TypeScript • SQL • SAP ABAP • Java
 
 ### ⚙️ Frameworks
-
 React • Node.js • Flutter • Three.js
 
 ### 🧰 Tools
-
 Docker • Git • OpenCV
 
-🧩 Featured Projects
+---
 
-☁️ Real-Time Facial Recognition System
+## 🧩 Featured Projects
 
-Built a serverless AWS pipeline to process CCTV streams using OpenCV + Lambda + S3 + SQS and store analytics results automatically.
+### ☁️ Real-Time Facial Recognition System
+Built a **serverless AWS pipeline** to process CCTV streams using **OpenCV + Lambda + S3 + SQS**, generating automated identity detection and analytics reports.
 
-🤖 AI Collaboration Platform
+### 🤖 AI Collaboration Platform
+Developed an **AI-driven meeting scoring and recommendation engine** using **AWS Lambda, DynamoDB, and event-driven pipelines**.
 
-Developed an AI-driven meeting scoring and recommendation engine using AWS Lambda, DynamoDB, and event-driven pipelines.
+### 🎮 Interactive 3D Web Experience
+Built immersive **Three.js + React Three Fiber applications** with custom **Blender models and animation pipelines**.
 
-🎮 Interactive 3D Web Experience
+### 🏢 SAP Data Migration Platform
+Contributed to **enterprise-scale SAP data migration initiatives**, designing and optimizing pipelines to securely transfer and transform large datasets while ensuring **data integrity, validation, and operational reliability**.
 
-Built immersive Three.js + React Three Fiber applications with custom Blender models and animations.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshraj&layout=compact&theme=tokyonight)
 
-🏢 SAP Data Migration Platform
+![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyanshraj&show_icons=true&theme=tokyonight)
+---
 
-Contributed to enterprise-scale data migration initiatives within the SAP ecosystem, designing and optimizing pipelines to securely transfer and transform large datasets across systems while ensuring data integrity, validation, and operational reliability.
+## 🌐 Connect With Me
 
-🌐 Connect With Me
-
-💼 LinkedIn
-
+💼 LinkedIn  
 https://linkedin.com/in/shreyanshraj
 
-🌐 Portfolio
-
+🌐 Portfolio  
 https://shreyanshraj.com
 
-⭐ Always excited to collaborate on interesting cloud, AI, and distributed systems projects.
+---
+
+⭐ Always excited to collaborate on **cloud, AI, and distributed systems projects**.
