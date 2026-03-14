@@ -17,40 +17,34 @@ Cloud automation platforms
 ## 🛠 Tech Stack
 
 ### ☁️ Cloud
-AWS • Lambda • DynamoDB • S3 • SQS • CloudFormation
+AWS • Lambda • DynamoDB • S3 • SQS • CloudFormation • IAM •RDS • Monitoring • Docker • AppConfig
 
 ### 💻 Languages
-Python • JavaScript • TypeScript • SQL
+Python • JavaScript • TypeScript • SQL • SAP ABAP • Java •
 
 ### ⚙️ Frameworks
 React • Node.js • Flutter • Three.js
 
 ### 🧰 Tools
 Docker • Git • OpenCV
+
 🧩 Featured Projects
 ☁️ Real-Time Facial Recognition System
-
 Built a serverless AWS pipeline to process CCTV streams using OpenCV + Lambda + S3 + SQS and store analytics results automatically.
 
 🤖 AI Collaboration Platform
-
 Developed an AI-driven meeting scoring and recommendation engine using AWS Lambda, DynamoDB, and event-driven pipelines.
 
 🎮 Interactive 3D Web Experience
-
 Built immersive Three.js + React Three Fiber applications with custom Blender models and animations.
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shreyanshraj&show_icons=true&theme=tokyonight&count_private=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshraj&layout=compact&theme=tokyonight"/> </p>
-🔥 GitHub Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyanshraj&theme=tokyo-night"/> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> </p>
+🏢 SAP Data Migration Platform
+Contributed to enterprise-scale data migration initiatives within the SAP ecosystem, designing and optimizing pipelines to securely transfer and transform large datasets across systems while ensuring data integrity, validation, and operational reliability.
+
 🌐 Connect With Me
 
 💼 LinkedIn
 https://linkedin.com/in/shreyanshraj
-
 🌐 Portfolio
 https://shreyanshraj.com
 
