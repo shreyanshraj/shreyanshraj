@@ -5,19 +5,13 @@
 💻 Software Engineer focused on Cloud Infrastructure, AI-powered systems, and distributed architectures
 
 🎓 M.S. Computer Science — Arizona State University
-
 ☁️ AWS Developer experienced in serverless, microservices, and event-driven systems
-
 🧠 Passionate about building AI-driven automation and scalable backend platforms
 
 🔧 Currently building systems involving:
-
 AWS serverless pipelines
-
 AI-powered collaboration tools
-
 Computer vision applications
-
 Cloud automation platforms
 
 ## 🛠 Tech Stack
