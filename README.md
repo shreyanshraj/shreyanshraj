@@ -61,7 +61,7 @@ Contributed to **enterprise-scale SAP data migration initiatives**, designing an
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshraj&layout=compact&theme=tokyonight)
 
-![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyanshraj&show_icons=true&theme=tokyonight)
+
 ---
 
 ## 🌐 Connect With Me
