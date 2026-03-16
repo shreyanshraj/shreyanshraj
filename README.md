@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Shreyansh Raj
+<h1 align="center">Hi 👋, I'm Shreyansh Raj</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AWS+Cloud+Developer;Distributed+Systems+Builder;AI+%26+Cloud+Enthusiast;Cloud+Native+Architect&center=true&width=650&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=150&color=58A6FF&center=true&vCenter=true&width=750&fadeOut=true&fadeOutDelay=150&lines=Software+Engineer;AWS+Certified+Developer;Cloud+%26+Distributed+Systems;AI+Systems+Builder;Full+Stack+Cloud+Engineer">
 </p>
 
 <p align="center">
@@ -59,7 +59,6 @@ Built immersive **Three.js + React Three Fiber applications** with custom **Blen
 ### 🏢 SAP Data Migration Platform
 Contributed to **enterprise-scale SAP data migration initiatives**, designing and optimizing pipelines to securely transfer and transform large datasets while ensuring **data integrity, validation, and operational reliability**.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshraj&layout=compact&theme=tokyonight)
 
 
 ---
